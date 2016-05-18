@@ -1,5 +1,5 @@
 ##Installation
-Download as zip, drag to your desktop.
+Download drag to your desktop.
 
-##Run
-Double click run.command.
+##Usage
+Double click run.command. Enter the path to your Java file and press enter.
