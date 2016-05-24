@@ -5,7 +5,7 @@
 ##Usage
 1. Open Terminal.
 2. Type `cd`, press space, and then drag in the folder containing this document. Press enter.
-3. Type `ruby white.rb`
+3. Type `ruby degenerated.rb`
 4. Type in the path to your Java file (no whitespace at the end!). You can also drag your java file into the Terminal window and then press delete once to delete the space at the end.
 5. Press enter.
 
